@@ -7,11 +7,11 @@ import requests
 import re
 
 def your_netid():
-    YOUR_NET_ID = 'cs8607'      # <-- put your NetID here
+    YOUR_NET_ID = 'cs8607'      
     return YOUR_NET_ID
 
 def your_hf_token():
-    YOUR_HF_TOKEN = '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'  # <-- put your Hugging Face token here (hf_...)
+    YOUR_HF_TOKEN = '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' 
     return YOUR_HF_TOKEN
 
 
